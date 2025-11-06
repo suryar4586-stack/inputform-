@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://suryar4586-stack.github.io//task1-react-",
+    "homepage": "https://suryar4586-stack.github.io//inputform-",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
